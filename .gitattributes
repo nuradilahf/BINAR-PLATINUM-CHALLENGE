@@ -1,0 +1,4 @@
+git add .gitattributes
+git commit -m "Add .gitattributes file"
+
+text=auto 
